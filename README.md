@@ -8,4 +8,5 @@
 •	Scaled and manipulated data in order to increase the model’s prediction. 
 
 •	Created data frames in the Python environment and implemented various machine learning APIs such as Tensor Flow, Keras and Pandas.
-![Alt text](http://imgur.com/a/V7thq6g/img.jpg "Op")
+
+![Alt text](http://imgur.com/a/V7thq6g/img.jpg)
