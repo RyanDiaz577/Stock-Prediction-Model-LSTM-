@@ -11,7 +11,7 @@
 
 Web Scraped Information
 
-p
+![VIZSF Web Scrape](https://user-images.githubusercontent.com/84155930/118534401-2f434280-b717-11eb-8b30-ca12dbf59533.PNG)
 
 Predictions Chart
 
