@@ -9,7 +9,7 @@
 
 •	Created data frames in the Python environment and implemented various machine learning APIs such as Tensor Flow, Keras and Pandas.
 
-                                         **Web Scraped Information**
+                                         # Web Scraped Information
 
 ![VIZSF Web Scrape](https://user-images.githubusercontent.com/84155930/118534401-2f434280-b717-11eb-8b30-ca12dbf59533.PNG)
 
