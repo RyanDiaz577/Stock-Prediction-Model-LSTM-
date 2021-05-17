@@ -9,4 +9,4 @@
 
 •	Created data frames in the Python environment and implemented various machine learning APIs such as Tensor Flow, Keras and Pandas.
 
-![Alt text](/This PC/Desktop/VIZSF Final Prediction/img.jpg?raw=true "Optional Title")
+![VIZSF Final Prediction](https://user-images.githubusercontent.com/84155930/118533534-3027a480-b716-11eb-90ad-8ad5cf742915.png)
