@@ -1,16 +1,16 @@
 # Stock Prediction Model (LSTM)
-•	Created an algorithm that predicts stock prices with an RMS Error as low as .15 for a 5 month period that resulted in gains of 150%.
+•	Created an algorithm that predicts stock prices with an RMS Error as low as .15 for a 5 month period that resulted in 150% return on investments.
 
-•	Implemented the use of a web scraper that can collect the historical stock price from any stock.
+•	Implemented the use of a web scraper that can collect the historical stock information.
 
-•	Visualized the data as a graph and a chart for quicker and more intuitive decision making. 
+•	Visualized the data as a graph and a chart for quicker and more intuitive decision making.
 
-•	Scaled and manipulated data in order to increase the model’s prediction. 
+•	Scaled and manipulated data in order to increase the model’s prediction accuracy.
 
 •	Created data frames in the Python environment and implemented various machine learning APIs such as Tensor Flow, Keras and Pandas.
 
-                                         # Web Scraped Information
-
+# b Scraped Information
+                                         
 ![VIZSF Web Scrape](https://user-images.githubusercontent.com/84155930/118534401-2f434280-b717-11eb-8b30-ca12dbf59533.PNG)
 
                                           **Predictions Chart**
