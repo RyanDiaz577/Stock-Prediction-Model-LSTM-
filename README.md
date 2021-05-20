@@ -1,4 +1,4 @@
-Link to the code(https://github.com/RyanDiaz577/Stock-Prediction-Model-LSTM-/blob/main/Stock%20MLP.py)
+Link to the code(https://github.com/RyanDiaz577/Stock-Prediction-Model-LSTM-/blob/main/Stock%20MLP.py) on my github page.
 # Stock Prediction Model (LSTM)
 •	Created an algorithm that predicts stock prices with an RMS Error as low as .15 for a 5 month period that resulted in 150% return on investments.
 
